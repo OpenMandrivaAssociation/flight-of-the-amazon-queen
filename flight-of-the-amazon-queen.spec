@@ -3,7 +3,7 @@
 Summary:	A adventure game using scummvm
 Name:		flight-of-the-amazon-queen
 Version:	1.0.0
-Release:	%mkrel 1
+Release:	2
 Source0:	http://prdownloads.sourceforge.net/scummvm/FOTAQ_Talkie.tar.bz2
 License:	Freeware
 Url:		http://scummvm.org
