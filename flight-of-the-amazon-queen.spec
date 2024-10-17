@@ -6,7 +6,7 @@ Version:	1.0.0
 Release:	3
 Source0:	http://prdownloads.sourceforge.net/scummvm/FOTAQ_Talkie.tar.bz2
 License:	Freeware
-Url:		http://scummvm.org
+Url:		https://scummvm.org
 Group:		Games/Adventure
 Requires:	scummvm
 BuildArch:	noarch
